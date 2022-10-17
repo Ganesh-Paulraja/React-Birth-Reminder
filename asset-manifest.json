@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Birth-Reminder/static/css/main.f3b897c9.css",
+    "main.js": "/React-Birth-Reminder/static/js/main.8f9fe75c.js",
+    "index.html": "/React-Birth-Reminder/index.html",
+    "main.f3b897c9.css.map": "/React-Birth-Reminder/static/css/main.f3b897c9.css.map",
+    "main.8f9fe75c.js.map": "/React-Birth-Reminder/static/js/main.8f9fe75c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b897c9.css",
+    "static/js/main.8f9fe75c.js"
+  ]
+}
